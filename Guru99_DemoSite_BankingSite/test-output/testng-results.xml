@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-24T13:52:26 IST" name="Default suite" finished-at="2024-02-24T13:54:51 IST" duration-ms="145693">
+    <groups>
+    </groups>
+    <test started-at="2024-02-24T13:52:26 IST" name="Default test" finished-at="2024-02-24T13:54:51 IST" duration-ms="145693">
+      <class name="TestCase_Guru99.com_AddNewCoustomer">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCase_Guru99.com_AddNewCoustomer@2dc9b0f5]" started-at="2024-02-24T13:52:26 IST" name="setUp" finished-at="2024-02-24T13:52:45 IST" duration-ms="19452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addNewCoustomer_001()[pri:0, instance:TestCase_Guru99.com_AddNewCoustomer@2dc9b0f5]" started-at="2024-02-24T13:52:45 IST" name="addNewCoustomer_001" finished-at="2024-02-24T13:54:50 IST" duration-ms="124843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCoustomer_001 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase_Guru99.com_AddNewCoustomer@2dc9b0f5]" started-at="2024-02-24T13:54:51 IST" name="tearDown" finished-at="2024-02-24T13:54:51 IST" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCase_Guru99.com_AddNewCoustomer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
