@@ -13,7 +13,7 @@ public class com_ReadConfig_Guru99 {
 
 	public com_ReadConfig_Guru99(WebDriver driver) {
 
-		File src = new File("E:\\Voot_App_Automation-master\\Guru99_DemoSite_BankingSite\\confugration\\config.properties");
+		File src = new File(System.getProperty("user.dir")+"./confugration/config.properties");
 		try {
 			FileInputStream fis = new FileInputStream(src);
 
